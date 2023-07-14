@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Title 1",
+    "description": "Description 1",
+    "code": "code1",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "Product",
+    "thumbnail": [
+      {
+        "image1": "./public/images/adidas-Barricade-clay-mens-shoes-sin-background.png",
+        "image2": "./public/images/adidas-Barricade-laver-cup-white-blue-Mens-Shoes-sin-background.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Title 2",
+    "description": "Description 2",
+    "code": "code2",
+    "price": 200,
+    "status": true,
+    "stock": 20,
+    "category": "Product",
+    "thumbnail": [
+      {
+        "image1": "./public/images/adidas-Barricade-White-Black-Solar-Red-Mens-Shoes-sin-background.png",
+        "image2": "./public/images/pelotas-tenis-dunlop-australian-open-tubox3-sin-background-280-280.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Title 3",
+    "description": "Description 3",
+    "code": "code3",
+    "price": 300,
+    "status": true,
+    "stock": 30,
+    "category": "Product",
+    "thumbnail": [
+      {
+        "image1": "./public/images/pelotas-tenis-dunlop-extra-duty-tubox3-sin-background-280-280.png",
+        "image2": "./public/images/pelotas-tenis-dunlop-fort-clay-court-tubox4-sin-background-280-280.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Title 4",
+    "description": "Description 4",
+    "code": "code4",
+    "price": 400,
+    "status": true,
+    "stock": 40,
+    "category": "Product",
+    "thumbnail": [
+      {
+        "image1": "./public/images/raqueta-babolat-boost-aero-yellow-sin-background.png",
+        "image2": "./public/images/raqueta-babolat-boost-drive-sin-background.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Title 5",
+    "description": "Description 5",
+    "code": "code5",
+    "price": 500,
+    "status": true,
+    "stock": 50,
+    "category": "Product",
+    "thumbnail": [
+      {
+        "image1": "./public/images/raqueta-babolat-boost-usa-sin-background.png",
+        "image2": "./public/images/tennis-court-dimensions.jpg"
+      }
+    ]
+  }
+]
